@@ -1,0 +1,2 @@
+# springbootMybatisXml
+使用springboot整合mybatis，使用了最习惯的mybatis的xml文件配置
